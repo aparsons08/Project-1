@@ -5,3 +5,21 @@ body{
     url(https://image.freepik.com/free-photo/flat-lay-ice-cream-cones-collection-dark-stone-background_35641-3048.jpg);
     background-size: cover;
 }
+.box {
+    width: 575px;
+    float: right;
+    border: 2px solid none;
+}
+
+.box ul li {
+    width: 120px;
+    float: left;
+    margin: 10px auto;
+    text-align: center;
+    }
+
+.box ul li a{  text-decoration: none;
+    color: white;}
+
+.box ul li:hover{ background-color: purple;}
+.box ul li:hover{ color: white;}
