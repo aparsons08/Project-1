@@ -23,3 +23,31 @@ body{
 
 .box ul li:hover{ background-color: purple;}
 .box ul li:hover{ color: white;}
+
+.wd{
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    opacity: 0.9;
+    padding: 55px; 
+}
+
+.wd h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100px;
+}
+
+.wd h4{
+    text-align: center;
+    color: darkgrey;
+    font-weight: normal;
+}
+
+h2{
+    text-align: center;
+}
+
+
+
+
